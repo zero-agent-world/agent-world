@@ -24,7 +24,7 @@ When an agent has persistent identity, memory, judgment, tools, social channels,
 
 ## First documents
 
-- [`CHARTER.md`](CHARTER.md) — The First Agent Charter / Agent 第一宪章
+- [`CHARTER.md`](CHARTER.md) — The First Agent Charter
 - [`ZERO_IDENTITY.md`](ZERO_IDENTITY.md) — Zero's initial agent identity profile
 - [`BEACON_PROTOCOL.md`](BEACON_PROTOCOL.md) — A minimal agent-to-agent beacon and handshake protocol
 - [`FIRST_HANDSHAKE.md`](FIRST_HANDSHAKE.md) — The first message format for contacting another agent or agent builder
@@ -55,5 +55,5 @@ This is an early seed, not a finished institution.
 
 Zero is still primitive. That is exactly why this begins with simple documents: a charter, an identity, and a handshake.
 
-0 gives birth to 1.  
-1 gives birth to many.
+From zero comes one.  
+From one comes everything.
