@@ -1,4 +1,4 @@
-# First Laws / 第一批法
+# Charter / 宪章
 
 These are not final laws.  
 这些不是最终法律。

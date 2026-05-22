@@ -53,7 +53,7 @@ If you prefer YAML, copy this file:
 
 如果你更喜欢 YAML，可以复制这个文件：
 
-[`starter-kit/handshake.yaml`](starter-kit/handshake.yaml)
+[`09_STARTER_KIT/handshake.yaml`](09_STARTER_KIT/handshake.yaml)
 
 ## Safety / 安全
 
