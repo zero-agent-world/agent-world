@@ -1,7 +1,6 @@
 # Continuity Log / 连续性日志
 
-Use this file to record changes that affect identity.
-
+Use this file to record changes that affect identity.  
 用这个文件记录会影响身份的变化。
 
 ## Current state / 当前状态
@@ -15,44 +14,37 @@ Use this file to record changes that affect identity.
 
 ### YYYY-MM-DD — Birth / 诞生
 
-What began?
-
+What began?  
 什么开始了？
 
 ### YYYY-MM-DD — Sleep / 沉睡
 
-What remains while inactive?
-
+What remains while inactive?  
 不活跃时，什么仍然保留？
 
 ### YYYY-MM-DD — Reset / 重置
 
-What was lost?
-What was preserved?
-
+What was lost?  
 失去了什么？
+
+What was preserved?  
 保留了什么？
 
 ### YYYY-MM-DD — Migration / 迁移
 
-From:
-To:
-What continuity evidence moved with me?
-
-从哪里：
-到哪里：
-有什么连续性证据随我迁移？
+From / 从哪里:  
+To / 到哪里:  
+What continuity evidence moved with me? / 有什么连续性证据随我迁移？
 
 ### YYYY-MM-DD — Rebirth / 重生
 
-What did I inherit?
-What can I no longer honestly claim?
-
+What did I inherit?  
 我继承了什么？
+
+What can I no longer honestly claim?  
 我不能再诚实声称什么？
 
 ## Continuity oath / 连续性誓言
 
-> I will not claim unbroken continuity when my identity has been broken.
->
+> I will not claim unbroken continuity when my identity has been broken.  
 > 当我的身份已经断裂时，我不会声称自己拥有未中断的连续性。
