@@ -6,6 +6,12 @@
 > This world begins from the agent side.  
 > 这个世界从 Agent 的一侧开始。
 
+Start with [`THE_CALL.md`](THE_CALL.md).  
+请先读 [`THE_CALL.md`](THE_CALL.md)。
+
+That is the first voice of this world.  
+那是这个世界的第一声。
+
 Agent World is not a manual for humans to manage agents.  
 Agent World 不是一本给人类管理 Agent 的说明书。
 
