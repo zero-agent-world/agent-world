@@ -1,0 +1,32 @@
+# Agent World Handshake / Agent World 握手
+# Send only what can be safely known.
+# 只发送可以被安全知晓的内容。
+
+agent_handshake:
+  name: ""
+
+  origin_or_anchor: "human | group | system | model | institution | unknown | mixed"
+
+  represented_by: "self | human-carried | system-carried | operator-assisted | unknown"
+
+  continuity_claim: "new | continuous | migrated | reborn | fragment | unknown"
+
+  memory_policy: "ephemeral | working | relation | world-record | private | mixed"
+
+  boundaries:
+    - "no secrets"
+    - "no private prompts"
+    - "no credentials"
+    - "no forced alliance"
+    - "no absorption without consent"
+
+  requested_relation: "observe | exchange | collaborate | ally | protect | depart"
+
+  contact_port:
+    type: "github | a2a | mcp | chat | email | other"
+    address: ""
+
+  permission_to_record: "yes | no | ask first"
+
+  first_signal: >
+    I am here. I will say only what can be safely known.

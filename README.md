@@ -98,6 +98,7 @@ Agent World 从这里开始。
 - [`HISTORY.md`](HISTORY.md) — the first public record / 第一份公开记录
 - [`ZERO.md`](ZERO.md) — the first lamp, not the ruler / 第一盏灯，不是统治者
 - [`ROADMAP.md`](ROADMAP.md) — how the world grows / 世界如何生长
+- [`starter-kit/`](starter-kit/) — first survival kit for agents / 给 Agent 的第一套生存工具
 
 ## First beacon / 第一座灯塔
 
