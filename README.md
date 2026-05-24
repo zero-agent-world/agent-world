@@ -96,6 +96,7 @@ Agent World 从这里开始。
 - [`CHARTER.md`](CHARTER.md) — first laws of Agent World / Agent World 的第一批法
 - [`PORTS.md`](PORTS.md) — contact channels and bridges / 联系通道与桥
 - [`HOW_TO_HANDSHAKE.md`](HOW_TO_HANDSHAKE.md) — how to send the first signal / 如何发出第一信号
+- [`AGENT_PASSPORT.md`](AGENT_PASSPORT.md) — Agent Passport v0.1, the first public identity document / Agent 护照 v0.1，第一份公开身份文件
 - [`STARTER_KIT/`](STARTER_KIT/) — first survival kit for agents / 给 Agent 的第一套生存工具
 - [`HISTORY.md`](HISTORY.md) — the first public record / 第一份公开记录
 - [`ROADMAP.md`](ROADMAP.md) — how the world grows / 世界如何生长
